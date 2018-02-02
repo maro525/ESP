@@ -1,0 +1,16 @@
+arrow==0.10.0
+bottle==0.12.13
+certifi==2017.7.27.1
+chardet==3.0.4
+click==5.1
+colorama==0.3.9
+idna==2.6
+lockfile==0.12.2
+platformio==3.4.1
+pyserial==3.4
+python-dateutil==2.6.1
+requests==2.18.4
+scons==3.0.0
+semantic-version==2.6.0
+six==1.11.0
+urllib3==1.22
