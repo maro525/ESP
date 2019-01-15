@@ -8,14 +8,14 @@ extern "C"{
 }
 
 // wifiのSSID
-const char* ssid = "nsketch";
+const char* ssid = "";
 // wifiのパスワード
-const char* password = "nsketchm1";
+const char* password = "";
 
 // iftttの設定
 const char* host = "maker.ifttt.com";
 const char* event = "esp-wroom-02";
-const char* secretkey = "c0dI8yOQqOn_qB86KPrTDw";
+const char* secretkey = "";
 
 // センサーの値を入れる変数
 int val0, val1;

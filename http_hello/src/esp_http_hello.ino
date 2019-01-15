@@ -3,9 +3,9 @@
 #include <ESP8266WiFi.h>
 
 // wifiのSSID
-const char* ssid = "nsketch";
+const char* ssid = "";
 // wifiのパスワード
-const char* password = "nsketchm1";
+const char* password = "";
 
 //ブラウザからの初回HTTPレスポンス完了したかどうかのフラグ
 boolean Ini_html_on = false;
